@@ -1,0 +1,6 @@
+输入重复值x输出y词：x occurs y times 
+输出不同值：
+a occurs 1 times 
+b occurs 1 times 
+c occurs 1 times 
+......
